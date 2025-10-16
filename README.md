@@ -39,7 +39,7 @@ Antes de começar, certifique-se de ter instalado:
 ### 📥 Clonar o Repositório
 
 ```sh
-git clone https://github.com/dienesgithub/cucumber.git
+git clone https://github.com/dieneslab/cucumber.git
 cd cucumber
 ```
 
@@ -137,4 +137,4 @@ Este projeto está sob a licença MIT. Para mais detalhes, consulte o arquivo [L
 
 ---
 
-Desenvolvido por [Dienes Stein](https://github.com/dienesgithub) 💻✨
+Desenvolvido por [Dienes Stein](https://github.com/dieneslab) 💻✨
